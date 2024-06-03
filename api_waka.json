@@ -1,3 +1,19 @@
 {
-    
+    "api_waka":
+    {
+        "hub_waka":
+        [
+            {
+            "waka_token" :
+             {
+                "waka_timeday":"",
+                "waka_date":"03\/06\/2567 15:01 น.",
+                "waka_ref":"VDRK",
+                "waka_otp":"935447",
+                "waka_status":"true"
+             }
+            }
+        ]
+    },
+    "status_number":"11"
 }
